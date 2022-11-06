@@ -1,0 +1,15 @@
+/Users/Danielbello/Desktop/asp.net/ASP.NETCORE/V-ENCRYPT/bin/Debug/net6.0/V-ENCRYPT
+/Users/Danielbello/Desktop/asp.net/ASP.NETCORE/V-ENCRYPT/bin/Debug/net6.0/V-ENCRYPT.deps.json
+/Users/Danielbello/Desktop/asp.net/ASP.NETCORE/V-ENCRYPT/bin/Debug/net6.0/V-ENCRYPT.runtimeconfig.json
+/Users/Danielbello/Desktop/asp.net/ASP.NETCORE/V-ENCRYPT/bin/Debug/net6.0/V-ENCRYPT.dll
+/Users/Danielbello/Desktop/asp.net/ASP.NETCORE/V-ENCRYPT/bin/Debug/net6.0/V-ENCRYPT.pdb
+/Users/Danielbello/Desktop/asp.net/ASP.NETCORE/V-ENCRYPT/obj/Debug/net6.0/V-ENCRYPT.csproj.AssemblyReference.cache
+/Users/Danielbello/Desktop/asp.net/ASP.NETCORE/V-ENCRYPT/obj/Debug/net6.0/V-ENCRYPT.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Danielbello/Desktop/asp.net/ASP.NETCORE/V-ENCRYPT/obj/Debug/net6.0/V-ENCRYPT.AssemblyInfoInputs.cache
+/Users/Danielbello/Desktop/asp.net/ASP.NETCORE/V-ENCRYPT/obj/Debug/net6.0/V-ENCRYPT.AssemblyInfo.cs
+/Users/Danielbello/Desktop/asp.net/ASP.NETCORE/V-ENCRYPT/obj/Debug/net6.0/V-ENCRYPT.csproj.CoreCompileInputs.cache
+/Users/Danielbello/Desktop/asp.net/ASP.NETCORE/V-ENCRYPT/obj/Debug/net6.0/V-ENCRYPT.dll
+/Users/Danielbello/Desktop/asp.net/ASP.NETCORE/V-ENCRYPT/obj/Debug/net6.0/refint/V-ENCRYPT.dll
+/Users/Danielbello/Desktop/asp.net/ASP.NETCORE/V-ENCRYPT/obj/Debug/net6.0/V-ENCRYPT.pdb
+/Users/Danielbello/Desktop/asp.net/ASP.NETCORE/V-ENCRYPT/obj/Debug/net6.0/V-ENCRYPT.genruntimeconfig.cache
+/Users/Danielbello/Desktop/asp.net/ASP.NETCORE/V-ENCRYPT/obj/Debug/net6.0/ref/V-ENCRYPT.dll
